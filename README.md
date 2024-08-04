@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luismtrx
-- 👀 I’m interested in C, Python and Electronics 
+- 👀 I’m interested in C/C++, Python and Electronics 
 - 🌱 I’m currently learning Python
 
 
